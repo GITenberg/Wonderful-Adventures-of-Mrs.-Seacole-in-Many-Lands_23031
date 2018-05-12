@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '25633'
     url: http://www.gutenberg.org/2009/agents/25633
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23031#Wonderful-Adventures-of-Mrs.-Seacole-in-Many-Lands
 gutenberg_bookshelf: Women's Travel Journals
 gutenberg_issued: '2007-10-14'
 gutenberg_type: Text
